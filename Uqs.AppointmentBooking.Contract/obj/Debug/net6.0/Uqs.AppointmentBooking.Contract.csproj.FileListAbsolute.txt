@@ -1,0 +1,12 @@
+/Users/Bilal/Downloads/Pragmatic-Test-Driven-Development-in-C-Sharp-and-.NET/ch10/UqsAppointmentBooking/Uqs.AppointmentBooking.Contract/bin/Debug/net6.0/Uqs.AppointmentBooking.Contract.deps.json
+/Users/Bilal/Downloads/Pragmatic-Test-Driven-Development-in-C-Sharp-and-.NET/ch10/UqsAppointmentBooking/Uqs.AppointmentBooking.Contract/bin/Debug/net6.0/Uqs.AppointmentBooking.Contract.dll
+/Users/Bilal/Downloads/Pragmatic-Test-Driven-Development-in-C-Sharp-and-.NET/ch10/UqsAppointmentBooking/Uqs.AppointmentBooking.Contract/bin/Debug/net6.0/Uqs.AppointmentBooking.Contract.pdb
+/Users/Bilal/Downloads/Pragmatic-Test-Driven-Development-in-C-Sharp-and-.NET/ch10/UqsAppointmentBooking/Uqs.AppointmentBooking.Contract/obj/Debug/net6.0/Uqs.AppointmentBooking.Contract.csproj.AssemblyReference.cache
+/Users/Bilal/Downloads/Pragmatic-Test-Driven-Development-in-C-Sharp-and-.NET/ch10/UqsAppointmentBooking/Uqs.AppointmentBooking.Contract/obj/Debug/net6.0/Uqs.AppointmentBooking.Contract.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Bilal/Downloads/Pragmatic-Test-Driven-Development-in-C-Sharp-and-.NET/ch10/UqsAppointmentBooking/Uqs.AppointmentBooking.Contract/obj/Debug/net6.0/Uqs.AppointmentBooking.Contract.AssemblyInfoInputs.cache
+/Users/Bilal/Downloads/Pragmatic-Test-Driven-Development-in-C-Sharp-and-.NET/ch10/UqsAppointmentBooking/Uqs.AppointmentBooking.Contract/obj/Debug/net6.0/Uqs.AppointmentBooking.Contract.AssemblyInfo.cs
+/Users/Bilal/Downloads/Pragmatic-Test-Driven-Development-in-C-Sharp-and-.NET/ch10/UqsAppointmentBooking/Uqs.AppointmentBooking.Contract/obj/Debug/net6.0/Uqs.AppointmentBooking.Contract.csproj.CoreCompileInputs.cache
+/Users/Bilal/Downloads/Pragmatic-Test-Driven-Development-in-C-Sharp-and-.NET/ch10/UqsAppointmentBooking/Uqs.AppointmentBooking.Contract/obj/Debug/net6.0/Uqs.AppointmentBooking.Contract.dll
+/Users/Bilal/Downloads/Pragmatic-Test-Driven-Development-in-C-Sharp-and-.NET/ch10/UqsAppointmentBooking/Uqs.AppointmentBooking.Contract/obj/Debug/net6.0/refint/Uqs.AppointmentBooking.Contract.dll
+/Users/Bilal/Downloads/Pragmatic-Test-Driven-Development-in-C-Sharp-and-.NET/ch10/UqsAppointmentBooking/Uqs.AppointmentBooking.Contract/obj/Debug/net6.0/Uqs.AppointmentBooking.Contract.pdb
+/Users/Bilal/Downloads/Pragmatic-Test-Driven-Development-in-C-Sharp-and-.NET/ch10/UqsAppointmentBooking/Uqs.AppointmentBooking.Contract/obj/Debug/net6.0/ref/Uqs.AppointmentBooking.Contract.dll

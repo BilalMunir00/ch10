@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/Uqs.AppointmentBooking.WebApi.props" />
+</Project>

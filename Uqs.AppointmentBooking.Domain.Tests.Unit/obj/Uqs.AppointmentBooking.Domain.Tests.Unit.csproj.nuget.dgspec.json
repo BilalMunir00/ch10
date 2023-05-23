@@ -1,0 +1,224 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/Bilal/Downloads/Pragmatic-Test-Driven-Development-in-C-Sharp-and-.NET/ch10/UqsAppointmentBooking/Uqs.AppointmentBooking.Domain.Tests.Unit/Uqs.AppointmentBooking.Domain.Tests.Unit.csproj": {}
+  },
+  "projects": {
+    "/Users/Bilal/Downloads/Pragmatic-Test-Driven-Development-in-C-Sharp-and-.NET/ch10/UqsAppointmentBooking/Uqs.AppointmentBooking.Contract/Uqs.AppointmentBooking.Contract.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/Bilal/Downloads/Pragmatic-Test-Driven-Development-in-C-Sharp-and-.NET/ch10/UqsAppointmentBooking/Uqs.AppointmentBooking.Contract/Uqs.AppointmentBooking.Contract.csproj",
+        "projectName": "Uqs.AppointmentBooking.Contract",
+        "projectPath": "/Users/Bilal/Downloads/Pragmatic-Test-Driven-Development-in-C-Sharp-and-.NET/ch10/UqsAppointmentBooking/Uqs.AppointmentBooking.Contract/Uqs.AppointmentBooking.Contract.csproj",
+        "packagesPath": "/Users/Bilal/.nuget/packages/",
+        "outputPath": "/Users/Bilal/Downloads/Pragmatic-Test-Driven-Development-in-C-Sharp-and-.NET/ch10/UqsAppointmentBooking/Uqs.AppointmentBooking.Contract/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/Bilal/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.302/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/Bilal/Downloads/Pragmatic-Test-Driven-Development-in-C-Sharp-and-.NET/ch10/UqsAppointmentBooking/Uqs.AppointmentBooking.Domain.Tests.Unit/Uqs.AppointmentBooking.Domain.Tests.Unit.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/Bilal/Downloads/Pragmatic-Test-Driven-Development-in-C-Sharp-and-.NET/ch10/UqsAppointmentBooking/Uqs.AppointmentBooking.Domain.Tests.Unit/Uqs.AppointmentBooking.Domain.Tests.Unit.csproj",
+        "projectName": "Uqs.AppointmentBooking.Domain.Tests.Unit",
+        "projectPath": "/Users/Bilal/Downloads/Pragmatic-Test-Driven-Development-in-C-Sharp-and-.NET/ch10/UqsAppointmentBooking/Uqs.AppointmentBooking.Domain.Tests.Unit/Uqs.AppointmentBooking.Domain.Tests.Unit.csproj",
+        "packagesPath": "/Users/Bilal/.nuget/packages/",
+        "outputPath": "/Users/Bilal/Downloads/Pragmatic-Test-Driven-Development-in-C-Sharp-and-.NET/ch10/UqsAppointmentBooking/Uqs.AppointmentBooking.Domain.Tests.Unit/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/Bilal/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/Bilal/Downloads/Pragmatic-Test-Driven-Development-in-C-Sharp-and-.NET/ch10/UqsAppointmentBooking/Uqs.AppointmentBooking.Domain/Uqs.AppointmentBooking.Domain.csproj": {
+                "projectPath": "/Users/Bilal/Downloads/Pragmatic-Test-Driven-Development-in-C-Sharp-and-.NET/ch10/UqsAppointmentBooking/Uqs.AppointmentBooking.Domain/Uqs.AppointmentBooking.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.InMemory": {
+              "target": "Package",
+              "version": "[6.0.3, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.1.0, )"
+            },
+            "NSubstitute": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            },
+            "NSubstitute.Analyzers.CSharp": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.0.15, )"
+            },
+            "coverlet.collector": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.2, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.1, )"
+            },
+            "xunit.runner.visualstudio": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.4.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.302/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/Bilal/Downloads/Pragmatic-Test-Driven-Development-in-C-Sharp-and-.NET/ch10/UqsAppointmentBooking/Uqs.AppointmentBooking.Domain/Uqs.AppointmentBooking.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/Bilal/Downloads/Pragmatic-Test-Driven-Development-in-C-Sharp-and-.NET/ch10/UqsAppointmentBooking/Uqs.AppointmentBooking.Domain/Uqs.AppointmentBooking.Domain.csproj",
+        "projectName": "Uqs.AppointmentBooking.Domain",
+        "projectPath": "/Users/Bilal/Downloads/Pragmatic-Test-Driven-Development-in-C-Sharp-and-.NET/ch10/UqsAppointmentBooking/Uqs.AppointmentBooking.Domain/Uqs.AppointmentBooking.Domain.csproj",
+        "packagesPath": "/Users/Bilal/.nuget/packages/",
+        "outputPath": "/Users/Bilal/Downloads/Pragmatic-Test-Driven-Development-in-C-Sharp-and-.NET/ch10/UqsAppointmentBooking/Uqs.AppointmentBooking.Domain/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/Bilal/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/Bilal/Downloads/Pragmatic-Test-Driven-Development-in-C-Sharp-and-.NET/ch10/UqsAppointmentBooking/Uqs.AppointmentBooking.Contract/Uqs.AppointmentBooking.Contract.csproj": {
+                "projectPath": "/Users/Bilal/Downloads/Pragmatic-Test-Driven-Development-in-C-Sharp-and-.NET/ch10/UqsAppointmentBooking/Uqs.AppointmentBooking.Contract/Uqs.AppointmentBooking.Contract.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.Azure.Cosmos": {
+              "target": "Package",
+              "version": "[3.28.0, )"
+            },
+            "Microsoft.Extensions.Options": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.302/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
