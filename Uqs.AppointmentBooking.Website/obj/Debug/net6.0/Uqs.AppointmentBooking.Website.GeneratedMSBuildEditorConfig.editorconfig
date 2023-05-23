@@ -1,0 +1,41 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = browser
+build_property.RootNamespace = Uqs.AppointmentBooking.Website
+build_property.RootNamespace = Uqs.AppointmentBooking.Website
+build_property.ProjectDir = /Users/Bilal/Downloads/Pragmatic-Test-Driven-Development-in-C-Sharp-and-.NET/ch10/UqsAppointmentBooking/Uqs.AppointmentBooking.Website/
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = /Users/Bilal/Downloads/Pragmatic-Test-Driven-Development-in-C-Sharp-and-.NET/ch10/UqsAppointmentBooking/Uqs.AppointmentBooking.Website
+build_property._RazorSourceGeneratorDebug = 
+
+[/Users/Bilal/Downloads/Pragmatic-Test-Driven-Development-in-C-Sharp-and-.NET/ch10/UqsAppointmentBooking/Uqs.AppointmentBooking.Website/App.razor]
+build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/Bilal/Downloads/Pragmatic-Test-Driven-Development-in-C-Sharp-and-.NET/ch10/UqsAppointmentBooking/Uqs.AppointmentBooking.Website/Pages/Booking.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQm9va2luZy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/Bilal/Downloads/Pragmatic-Test-Driven-Development-in-C-Sharp-and-.NET/ch10/UqsAppointmentBooking/Uqs.AppointmentBooking.Website/Pages/Confirmation.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ29uZmlybWF0aW9uLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/Bilal/Downloads/Pragmatic-Test-Driven-Development-in-C-Sharp-and-.NET/ch10/UqsAppointmentBooking/Uqs.AppointmentBooking.Website/Pages/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSW5kZXgucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/Bilal/Downloads/Pragmatic-Test-Driven-Development-in-C-Sharp-and-.NET/ch10/UqsAppointmentBooking/Uqs.AppointmentBooking.Website/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/Bilal/Downloads/Pragmatic-Test-Driven-Development-in-C-Sharp-and-.NET/ch10/UqsAppointmentBooking/Uqs.AppointmentBooking.Website/Shared/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL01haW5MYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-c58y20y7ks
